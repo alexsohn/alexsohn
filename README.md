@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexsohn
+- 👀 I’m interested in ... applied applications of neural networks in the medical field. Small improvements on the everyday code I use. 
+- 🌱 I’m currently learning ... nueral networks in python.
+- 💞️ I’m looking to collaborate on ... anything fun!
+- 📫 How to reach me ... Email me at ocean-idler_0b@icloud.com
